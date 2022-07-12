@@ -1,0 +1,3 @@
+- I've set up SSH now
+- And successfully run `git clone git@github.com:Jonta/git-learning-jul2022.git`
+- Now let's see if we can push
