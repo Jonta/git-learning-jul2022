@@ -1,0 +1,2 @@
+`git status`
+- What does it look like with 2 committed, but not pushed files, in 2 different commits?
