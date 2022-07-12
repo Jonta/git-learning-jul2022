@@ -1,0 +1,14 @@
+- git-commit:
+- So `git commit -m "Title here" -m "1st paragraph" -m "2nd paragraph"`
+  works
+
+But:
+
+I'd prefer the workflow
+--- Enter command
+--- vim pops up and lets us edit it
+--- Close vim
+--- That's now the commit message
+
+- So what's the best command/setup for achieving that?
+- iirc, there's some config-stuff one can do for it, but is that necessary?
